@@ -48,7 +48,6 @@ const workerConfig: WorkerConfig = {
       expectedCodes: [200],
       timeout: 10000,
       },
-    },
   ],
   // [Optional] Notification settings
   notification: {
