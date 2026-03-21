@@ -41,7 +41,7 @@ const workerConfig: WorkerConfig = {
      {
       id: 'Umami',
       name: 'Umami',
-      method: 'POST',
+      method: 'GET',
       target: 'https://umami.578113.xyz',
       tooltip: '网站统计',
       statusPageLink: 'https://umami.578113.xyz/share/5ESTs8jIv3PziJdE',
